@@ -1,3 +1,11 @@
+Xampp Install:
+
+https://www.wikihow.com/Install-XAMPP-on-Linux
+
+
+
+
+
 # laravel-project-install
 Laravel Project install
 
